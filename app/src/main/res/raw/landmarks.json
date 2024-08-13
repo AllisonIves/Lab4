@@ -1,0 +1,37 @@
+[
+  {
+    "name": "CN Tower",
+    "address": "290 Bremner Blvd",
+    "latitude": 43.642567,
+    "longitude": -79.387054,
+    "typeName": "attraction"
+  },
+  {
+    "name": "Rogers Centre",
+    "address": "1 Blue Jays Way",
+    "latitude": 43.641796,
+    "longitude": -79.390083,
+    "typeName": "stadium"
+  },
+  {
+    "name": "Hockey Hall of Fame",
+    "address": "30 Yonge St",
+    "latitude": 43.64694444,
+    "longitude": -79.37722222,
+    "typeName": "museum"
+  },
+  {
+    "name": "Art Gallery of Ontario",
+    "address": "317 Dundas St W",
+    "latitude": 43.6536,
+    "longitude": -79.3925,
+    "typeName": "museum"
+  },
+  {
+    "name": "Ashbridge Estate",
+    "address": "1444 Queen St E",
+    "latitude": 43.665303,
+    "longitude": -79.322759,
+    "typeName": "old building"
+  }
+]

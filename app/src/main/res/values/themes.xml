@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Assignment4" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- No ActionBar, so you can use Toolbar -->
+    </style>
+
+    <style name="Theme.Assignment4" parent="Base.Theme.Assignment4">
+        <!-- Customize your theme here -->
+    </style>
+</resources>
