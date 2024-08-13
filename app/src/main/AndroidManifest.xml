@@ -19,7 +19,8 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyDa49yHSQGLMcJW5JQHL3_eyyWoLMpG-7g"/>
+            android:value="API_KEY"/>
+        <!-- Hidden API key due to public repo /!-->
 
         <activity
             android:name=".MainActivity"
